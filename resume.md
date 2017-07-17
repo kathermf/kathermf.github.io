@@ -5,8 +5,6 @@ title:	Resume
 
 # {{ page.title }}
 
-# Katherine Michelle Fitzpatrick
-
 ## Skills
 * Programming Languages: C++, Python, C#
 * Game Engines: Unity, RPGMaker VX Ace
@@ -18,6 +16,7 @@ September 2013 - June 2017
 
 * Bachelor of Science in Computer Game Science
 * Final GPA of 3.2
+
 ### Nathaniel Narbonne High School
 September 2009 - May 2013
 
