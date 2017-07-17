@@ -3,6 +3,6 @@ layout: default
 title:  Contact
 ---
 
-# {{ page.title }}
+# Contact Me
 
-
+Email: kathermf@uci.edu
