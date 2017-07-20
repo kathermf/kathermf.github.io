@@ -22,8 +22,6 @@ Selfie Surf is a single-device party game for mobile, inspired by the game "Tele
 
 .
 
-.
-
 -----
 
 ## Pan-Fried Panic
@@ -35,8 +33,6 @@ Pan Fried Panic is a 2 VS 2 frantic cooking game in which the goal is to prepare
 Developed as a part of the Capstone course for the Computer Game Science Major at the University of California.[More...]
 
 Check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ABI.PanFriedPanic&hl=en).
-
-.
 
 .
 
