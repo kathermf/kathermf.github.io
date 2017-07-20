@@ -7,9 +7,9 @@ title:	Portfolio
 
 Here is a list of projects I have contributed to. Feel free to take a look at them.
 
------
+<hr />
 ## Selfie Surf
-<img src="images/selfiesurf0_1.png" width="200">
+<img align="right" src="images/selfiesurf0_1.png" width="200">
 
 Platform(s): Android, iOS
 
