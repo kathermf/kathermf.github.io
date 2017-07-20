@@ -21,6 +21,8 @@ Selfie Surf is a single-device party game for mobile, inspired by the game "Tele
 
 .
 
+.
+
 ## Pan-Fried Panic
 <img align="right"  src="images/panfriedpanic0.png">
 Platform(s): Android
@@ -35,7 +37,7 @@ Check it out on the [Google Play Store](https://play.google.com/store/apps/detai
 
 .
 
-
+.
 
 ## A Bark in the Dark
 <img align="right" src="images/abitd0.png">
