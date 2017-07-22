@@ -5,10 +5,14 @@ title:	Resume
 
 # {{ page.title }}
 
+---
+
 ## Skills
 * Programming Languages: C++, Python, C#
 * Game Engines: Unity, RPGMaker VX Ace
 * Other Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
+
+---
 
 ## Education
 ### University of California, Irvine
@@ -19,6 +23,8 @@ September 2013 - June 2017
 
 ### Nathaniel Narbonne High School
 September 2009 - May 2013
+
+---
 
 ## Projects
 ### Selfie-Surf | Mobile Game
@@ -32,3 +38,5 @@ January 2017 – Current
 * Designed the gameplay of the game, along with teammates
 
 more soon
+
+---
