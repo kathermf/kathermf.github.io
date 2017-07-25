@@ -73,6 +73,12 @@ Check it out on [itch.io](https://xuanf1.itch.io/edgewin-the-game).
 
 **[More...]()**
 
+.
+
+.
+
+.
+
 -----
 
 ## Haven
@@ -82,6 +88,12 @@ Platform(s): PC
 A short, story-focused role-playing game set in a dark, cyberpunk world. In a dystopian future, the surface of the world has been nearly rendered unlivable due to pollution and climate change. People must hide away in structures and rely on the virtual world Haven in order to communicate and function. Additionally, a war is brewing between the corrupted company running Haven and the rebellion trying to bring them down. Jayden, an ordinary citizen with a talent for computer hacking, is thrust in the middle of this war when he is forced to take desperate actions to save his beloved Sloane, who requires medication to keep the poisonous effects of using Haven at bay.
 
 **[More...]()**
+
+.
+
+.
+
+.
 
 -----
 
@@ -94,5 +106,11 @@ A 3D first person exploration puzzle game. The player plays an archaeologist exp
 Originally made for a course at UCI which emphasized the creation of 3D models. All the models in the game were custom created using Autodesk Maya.
 
 **[More...]()**
+
+.
+
+.
+
+.
 
 -----
