@@ -65,6 +65,10 @@ A short survival horror game where the player must listen to avoid danger. In th
 <img align="right" src="images/edgewin0.png" width="200">
 Platform(s): PC
 
+This game is a action-based third-person shooter, though with unique mechanics (and a really silly premise) that makes it unique from other shooters. The Edgewin is on a journey through outer space to collect as many edgey items, upgrade his edge powers, and become the ultimate Edgelord. Along the way, he must deal with slowly draining health and avoid all manner of obstacles, including hunters, meteors, and really annoying shooting stars. 
+
+This game was originally made for the VGDC Spring 2017 Game Jam, in which the theme given was "not enough edges." Additionally, the game's silly premise came from in-jokes concerning then VGDC President Edwin Ho.
+
 Check it out on [itch.io](https://xuanf1.itch.io/edgewin-the-game).
 
 **[More...]()**
@@ -75,6 +79,8 @@ Check it out on [itch.io](https://xuanf1.itch.io/edgewin-the-game).
 <img align="right" src="images/haven0.png" width="200">
 Platform(s): PC
 
+A short, story-focused role-playing game set in a dark, cyberpunk world. In a dystopian future, the surface of the world has been nearly rendered unlivable due to pollution and climate change. People must hide away in structures and rely on the virtual world Haven in order to communicate and function. Additionally, a war is brewing between the corrupted company running Haven and the rebellion trying to bring them down. Jayden, an ordinary citizen with a talent for computer hacking, is thrust in the middle of this war when he is forced to take desperate actions to save his beloved Sloane, who requires medication to keep the poisonous effects of using Haven at bay.
+
 **[More...]()**
 
 -----
@@ -82,6 +88,10 @@ Platform(s): PC
 ## The Lost Gold City of Gold
 <img align="right" src="images/lgcog0.png" width="200">
 Platform(s): PC
+
+A 3D first person exploration puzzle game. The player plays an archaeologist explorer traversing a desert canyon along with their  (green) archaeologist team in search of the Lost Gold City of Gold. The player must search for the keys in order to unlock the golden gate that may lead to the City, doing simple platforming puzzles in order to obtain them. Interacting with the other members of the team gives the player hints as to where to go or how to obtain certain keys.
+
+Originally made for a course at UCI which emphasized the creation of 3D models. All the models in the game were custom created using Autodesk Maya.
 
 **[More...]()**
 
