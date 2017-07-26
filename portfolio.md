@@ -17,7 +17,9 @@ Platform(s): Android, iOS
 
 Selfie Surf is a single-device party game for mobile, inspired by the game "Telephone." Players start with a random word or phrase and then take a selfie-based on that word. They then hand the phone to the next player, who enters a word or phrase based on that selfie. They hand the phone to the next player, who takes another selfie until everyone has taken a turn. All players can now watch an animated sequence of everyone's pictures coupled with the words and see what's lost (or gained!) in translation. The game supports 4-16 players.
 
-**[More...](selfiesurf.md)**
+**[More...](s_selfiesurf.md)**
+
+.
 
 .
 
@@ -31,13 +33,9 @@ Platform(s): Android
 
 Pan Fried Panic is a 2 VS 2 frantic cooking game in which the goal is to prepare food faster than the other team. This is accomplished through fast-paced minigames requiring the coordination of both players on your team to set up. The game currently features baking cakes and the first team to work together to bake three cakes the fastest wins.
 
-Developed as a part of the Capstone course for the Computer Game Science Major at the University of California.
-
-Check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ABI.PanFriedPanic&hl=en).
-
 **[More...]()**
 
-
+.
 
 .
 

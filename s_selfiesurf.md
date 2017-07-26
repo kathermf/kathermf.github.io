@@ -26,4 +26,4 @@ and
 ## Contribution
 
 
-## Development Lessons
+## Development
