@@ -33,7 +33,7 @@ Platform(s): Android
 
 Pan Fried Panic is a 2 VS 2 frantic cooking game in which the goal is to prepare food faster than the other team. This is accomplished through fast-paced minigames requiring the coordination of both players on your team to set up. The game currently features baking cakes and the first team to work together to bake three cakes the fastest wins.
 
-**[More...]()**
+**[More...](s_panfriedpanic.md)**
 
 .
 
@@ -68,6 +68,24 @@ This game is a action-based third-person shooter, though with unique mechanics (
 This game was originally made for the VGDC Spring 2017 Game Jam, in which the theme given was "not enough edges." Additionally, the game's silly premise came from in-jokes concerning then VGDC President Edwin Ho.
 
 Check it out on [itch.io](https://xuanf1.itch.io/edgewin-the-game).
+
+**[More...]()**
+
+.
+
+.
+
+.
+
+-----
+
+## Defier
+<img align="right" src="images/defier0.png" width="200">
+Platform(s): Card Game
+
+Defier is an adventure card game set in Ancient Rome and inspired by the gameplay of the classic arcade game, PacMan. Each player selects one of four Roman heroes with unique abilities and compete against one another to slay the twin gods Apollo and Diana. Players create their own game field as they play with Exploration Cards and make their way to the center of the play field, in which they face off in an epic battle against the gods. Along the way, players slay the twin gods’ minions and explore monuments and dungeons, attaining greater power through gaining levels and collecting items.
+
+The twin gods Apollo and Diana have forsaken your people and are bent on destroying Rome! They have conjured a disheveled copy of Rome underground and whatever damage is dealt to the structures there will be reflected onto the original. The mirrored city is riddled with creatures and horrors known only by man’s tongue for anyone foolish enough to raise their sword against the gods. The emperor of Rome makes a royal decree to slay the Gods, sending only but his four finest warriors - Iovita, Blinkus, Prisca and Claudius to the underworld to slay the gods and reclaim Rome’s former glory.
 
 **[More...]()**
 
