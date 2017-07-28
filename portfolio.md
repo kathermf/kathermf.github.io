@@ -5,7 +5,7 @@ title:	Portfolio
 
 # {{ page.title }}
 
-Here is a list of projects I have contributed to. Feel free to take a look at them.
+Here is a list of projects I have been a part of. Feel free to take a closer look at them.
 
 <hr />
 ## Selfie Surf
@@ -13,7 +13,7 @@ Here is a list of projects I have contributed to. Feel free to take a look at th
 
 Platform(s): Android, iOS
 
-> Won second place for Best Game in the IEEE GameSIG 2017 Showcase
+> 2nd Place Winner for Best Game Showing Commercial Viability in the IEEE GameSIG 2017 Showcase
 
 Selfie Surf is a single-device party game for mobile, inspired by the game "Telephone." Players start with a random word or phrase and then take a selfie-based on that word. They then hand the phone to the next player, who enters a word or phrase based on that selfie. They hand the phone to the next player, who takes another selfie until everyone has taken a turn. All players can now watch an animated sequence of everyone's pictures coupled with the words and see what's lost (or gained!) in translation. The game supports 4-16 players.
 
