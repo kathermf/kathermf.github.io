@@ -14,3 +14,6 @@ If you want to check out the projects I've worked on or are looking to hire, fee
 
 ## Current Project(s) 
 I am currently working on personal projects while looking out for potential jobs.
+
+### Selfie Surf
+I recently went to an IEEE OCCS meeting to give a presentation on Selfie Surf along with the rest of ABI Productions. There, the team discussed some features that will potentially make their way into the app.
