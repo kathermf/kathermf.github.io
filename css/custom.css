@@ -34,7 +34,7 @@ body > .container {
 .footer > .container {
   padding-right: 15px;
   padding-left: 15px;
-  background-color: #750000;
+  background-color: #4D0000;
   color: white;
 }
 
@@ -43,5 +43,10 @@ code {
 }
 
 .navbar.navbar-inverse.navbar-fixed-top {
+  background-color: #4D0000;
+}
+
+.navbar.navbar-inverse.navbar-fixed-top a.active {
   background-color: #750000;
+  color: white;
 }
