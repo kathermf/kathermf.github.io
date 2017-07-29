@@ -14,7 +14,7 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #750000;
+  background-color: #4D0000;
   color: white;
 }
 
@@ -42,11 +42,11 @@ code {
   font-size: 80%;
 }
 
-.navbar.navbar-inverse.navbar-fixed-top {
+.navbar-top {
   background-color: #4D0000;
 }
 
-.navbar.navbar-inverse.navbar-fixed-top a.active {
+.navbar-top a.active {
   background-color: #750000;
   color: white;
 }
