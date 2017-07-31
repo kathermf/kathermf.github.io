@@ -7,7 +7,7 @@ title:	Portfolio
 
 Here is the list of projects I have been a part of. Feel free to take a closer look at them. 
 
-Please that the portfolio may not be completely finished yet and that some parts may be incomplete or missing. I am still in the process of adding to it, so be sure to check back at a later point in time.
+Please note that the portfolio may not be completely finished yet and that some parts may be incomplete or missing. I am still in the process of adding to it, so be sure to check back at a later point in time.
 
 <hr />
 ## Selfie Surf
