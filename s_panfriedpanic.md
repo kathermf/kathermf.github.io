@@ -18,6 +18,10 @@ Developed as a part of the Capstone course for the Computer Game Science Major a
 Check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ABI.PanFriedPanic&hl=en).
 
 ## Contribution
+#### Programming
+I was one of the multiple programmers on the team working on the game. 
 
+#### Game Design
+The whole team worked together to work out the overall design of the game, including how each minigame would work. However, the implementation each aspect of the 
 
 ## Development
