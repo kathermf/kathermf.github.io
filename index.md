@@ -6,7 +6,7 @@ title:  Home
 # {{ page.title }}
 
 ## About Me
-<img align="right" src="images/untitled.jpg" width="150"> 
+<img align="right" src="images/untitled.JPG" width="150">
 Hello!
 
 My name is Katherine Fitzpatrick and I am a programmer and game designer. I recently graduated from the University of California Irvine with a major in Computer Game Science. As you may have guessed, I am passionate about both playing and making games. I have enjoyed all sorts of games and genres, though I am particularly fond of multiplayer games that can be enjoyed with others. 
