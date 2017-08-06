@@ -17,5 +17,12 @@ The twin gods Apollo and Diana have forsaken your people and are bent on destroy
 
 ## Contribution
 
+#### Game Design
+
+#### Testing
+
+#### Other
+I provided the materials for and printed the final version of the card game. I also did a lot of paper cutting and casing.
+
 
 ## Development

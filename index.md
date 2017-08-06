@@ -6,6 +6,7 @@ title:  Home
 # {{ page.title }}
 
 ## About Me
+---
 <img align="right" src="images/untitled.JPG" width="150">
 Hello!
 
@@ -20,7 +21,9 @@ If you want to check out the projects I've worked on or are looking to hire, you
 .
 
 ## Current Project(s) 
+---
+#### What Am I Doing?
 I am currently working on personal projects while looking out for potential jobs.
 
-### Selfie Surf
-I recently went to an IEEE OCCS meeting to give a presentation on Selfie Surf along with the rest of ABI Productions. There, the team discussed some features that will potentially make their way into the app.
+#### [Selfie Surf](s_selfiesurf.md)
+Selfie Surf is an ongoing project being developed by team ABI Productions (which I am a part of). The team is working on new features and marketing that are going to be added in the future.

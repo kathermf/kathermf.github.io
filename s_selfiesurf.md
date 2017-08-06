@@ -10,7 +10,7 @@ title:	Selfie Surf
 <img src="images/selfiesurf5.jpeg" width="250">
 
 ## About
-Platform(s): Android, iOS
+Platform(s): [Android](https://play.google.com/store/apps/details?id=com.Abi.SelfieSurf), [iOS](https://itunes.apple.com/us/app/selfie-surf/id1248211292?ls=1&mt=8)
 
 > 2nd Place Winner for Best Game Showing Commercial Viability in the IEEE GameSIG 2017 Showcase
 
@@ -25,7 +25,7 @@ and
 
 ## Contribution
 #### Programming
-I am one of the multiple programmers on the team working on the game. I am mainly responsible for the randomized word generator. Essentially, the script that I coded takes words from lists stored in text files and randomly selects one to display at the top of the screen. This is the word that starts off the main part of the gameplay. Other than that, I helped my teammates with their coding and debugging. 
+I am one of the multiple programmers on the team working on the game. I am mainly responsible for the randomized word "generator". Essentially, the script that I coded takes words from lists stored in text files and randomly selects one to display at the top of the screen. This is the word that starts off the main part of the gameplay. Other than that, I helped my teammates with their coding and debugging. 
 
 #### Game Design
 The whole team worked together to help come up with and work out ideas for the game design. I helped worked out the fine details through discussions and testing during development.
@@ -33,10 +33,13 @@ The whole team worked together to help come up with and work out ideas for the g
 #### Sound Design
 I selected the music for the game. The game, being a fun party game, needed fun party music and Kevin Macleod's Incompetech site, which has a large variety of royalty free music, was able to provide it.
 
+#### Other
+I am one of the teammates that contributed significantly to the words that the word "generator" picks from.
+I am also in charge of building the game in iOS, as I am the only member of the team with devices needed for building and testing on that platform.
+
+
 ## Development
 
-As stated before, this was originally made for the 2017 Global Game Jam. As such, we initially only had 48 hours in order to come up with a game idea and develop it. 
+As stated before, this was originally made for the 2017 Global Game Jam. As such, we initially only had 48 hours in order to come up with a game idea and develop it. The team (which we have started calling ABI productions, thanks to an in-joke) consisted of five people, including myself, which was a bit smaller than most of the other teams that participated in the Game Jam at UCI. All members of the team are normally programmers and designers, though some of us worked on less familiar jobs such as the art, graphics, and sound. But having multiple programmers meant that the different programming tasks could be split up between different people, making it easier and faster to implement the required mechanics.
 
-The team (which we have started calling ABI productions, thanks to an in-joke) consisted of five people, including myself, which was a bit smaller than most of the other teams that participated in the Game Jam at UCI. All members of the team are normally programmers and designers, though some of us worked on less familiar jobs such as the art, graphics, and sound.
-
-As I recall, initial designing didn't take much time. It helped that we had a good idea of what features we wanted before hand, which sped up the design process quite a bit. 
+Initial design didn't take much time. It helped that we had a good idea of what features we wanted before hand, which sped up the design process quite a bit. Most of the team also had experience with scope creep, so we knew that with the amount of time we had, developing a game with a simple game design would be best. And it is actually a simple game, as it relies on the players. Personally, I was really surprised by how many people enjoyed the game and the concept. It's mind boggling how something so simple turn out to be something impressive.
