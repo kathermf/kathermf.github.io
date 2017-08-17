@@ -10,7 +10,7 @@ title:	Selfie Surf
 <img src="images/selfiesurf5.jpeg" width="250">
 
 ## About
-Platform(s): [Android](https://play.google.com/store/apps/details?id=com.Abi.SelfieSurf), [iOS](https://itunes.apple.com/us/app/selfie-surf/id1248211292?ls=1&mt=8)
+Team Project | Platform(s): [Android](https://play.google.com/store/apps/details?id=com.Abi.SelfieSurf), [iOS](https://itunes.apple.com/us/app/selfie-surf/id1248211292?ls=1&mt=8)
 
 > 2nd Place Winner for Best Game Showing Commercial Viability in the IEEE GameSIG 2017 Showcase
 

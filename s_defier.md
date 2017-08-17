@@ -9,7 +9,7 @@ title:	Defier
 <img src="images/defier2.png" width="450">
 
 ## About
-Platform(s): Card Game
+Team Project | Platform(s): Card Game
 
 Defier is an adventure card game set in Ancient Rome and inspired by the gameplay of the classic arcade game, PacMan. Each player selects one of four Roman heroes with unique abilities and compete against one another to slay the twin gods Apollo and Diana. Players create their own game field as they play with Exploration Cards and make their way to the center of the play field, in which they face off in an epic battle against the gods. Along the way, players slay the twin gods’ minions and explore monuments and dungeons, attaining greater power through gaining levels and collecting items.
 
