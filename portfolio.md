@@ -12,7 +12,6 @@ Please note that the portfolio is still a work in progress and that some parts m
 <hr />
 ## Selfie Surf
 <img align="right" src="images/selfiesurf0_1.png" width="200">
-
 Team Project | Platform(s): [Android](https://play.google.com/store/apps/details?id=com.Abi.SelfieSurf), [iOS](https://itunes.apple.com/us/app/selfie-surf/id1248211292?ls=1&mt=8)
 
 > 2nd Place Winner for Best Game Showing Commercial Viability in the IEEE GameSIG 2017 Showcase
