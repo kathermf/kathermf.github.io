@@ -93,3 +93,7 @@ April 2016 – June 2016
 * Enjoys playing a large variety of games, especially multiplayer games and games with unique gameplay
 * Develops small games or game mechanics as personal side projects 
 * Sketches art of various styles, including designs and concepts, in spare time
+
+---
+
+[PDF](/fitzpatrickkm_resumeNP.pdf)
