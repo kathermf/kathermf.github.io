@@ -9,7 +9,6 @@ title:  Home
 ## News
 ---
 
-### Other Projects
 #### The Science of Deduction 
 ##### September 2017
 I can't say much about this at the moment, except that it has to do with logic puzzles, AI, and a beloved fictional character. This particular project is still undergoing testing to see if the concept is viable. Of course, I'll make a demo and see what other people think of it before making any promises.
@@ -22,6 +21,8 @@ I've been experimenting with 3D controls and controller input with Unity, lately
 ##### July 2017
 One of the games I've played recently  included a really cool empire-manager feature. However, I found the mechanics with this manager were a bit lacking (which is understandable, given that the game's focus wasn't solely on that feature). Noting the interesting bits and parts where such a feature could improve made the rusty creative gears in my head start grinding and so I've started designing the kind of kingdom management game that I would like to play.
 
+.
+
 ## Projects 
 ---
 #### What Am I Doing?
@@ -31,6 +32,8 @@ I am currently working on personal projects while looking out for potential jobs
 
 #### [Selfie Surf](s_selfiesurf.md)
 Selfie Surf is an ongoing project being developed by team ABI Productions (which I am a part of). The team is working on new features and marketing that are going to be added in the future.
+
+.
 
 ## About Me
 ---
