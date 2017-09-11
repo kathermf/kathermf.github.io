@@ -6,10 +6,10 @@ title:  Home
 # {{ page.title }}
 
 
-## News
+## What Am I Up To?
 ---
 
-#### The Science of Deduction 
+#### Deducing Deduction 
 ##### September 2017
 I can't say much about this at the moment, except that it has to do with logic puzzles, AI, and a beloved fictional character. This particular project is still undergoing testing to see if the concept is viable. Of course, I'll make a demo and see what other people think of it before making any promises.
 
@@ -17,18 +17,14 @@ I can't say much about this at the moment, except that it has to do with logic p
 ##### August 2017
 I've been experimenting with 3D controls and controller input with Unity, lately, in the hopes of getting more experience with 3D, 3rd person game mechanics, and console game development. Inspired by my childhood and awesome games like Overcooked, I plan to develop local co-op games for me and my friends to enjoy. And since Microsoft has so graciously blessed us developers with [some help](http://www.xbox.com/en-US/developers/creators-program), these games are likely to actually be published on a console!
 
-#### The Road to Rule
+#### Royal Dilemma
 ##### July 2017
 One of the games I've played recently  included a really cool empire-manager feature. However, I found the mechanics with this manager were a bit lacking (which is understandable, given that the game's focus wasn't solely on that feature). Noting the interesting bits and parts where such a feature could improve made the rusty creative gears in my head start grinding and so I've started designing the kind of kingdom management game that I would like to play.
 
 .
 
-## Projects 
+## Current Projects 
 ---
-#### What Am I Doing?
-I am currently working on personal projects while looking out for potential jobs.
-
-### Official Projects
 
 #### [Selfie Surf](s_selfiesurf.md)
 Selfie Surf is an ongoing project being developed by team ABI Productions (which I am a part of). The team is working on new features and marketing that are going to be added in the future.
