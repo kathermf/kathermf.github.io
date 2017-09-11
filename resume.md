@@ -20,6 +20,7 @@ my skills in those areas.
 * Programming Languages: C++, Python, C#
 * Game Engines: Unity, RPGMaker VX Ace
 * Other Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
+* Other: teamwork, game development, game design
 
 ---
 
