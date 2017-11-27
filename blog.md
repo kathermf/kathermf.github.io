@@ -10,10 +10,10 @@ title:  What Am I Up To?
 #### Too Many Parties (November 2017)
 November was a very busy month for me... it seems there was at least one party every week. As such, there's not much I got done in terms of game development, but there is some progress though. One mini project that was supposed to take a few hours over a few days ended up taking a few hours over several weeks (thanks to the aforementioned parties). And it's still not finished! It was originally supposed to be a Halloween special, but as you can see, that didn't turn out as planned. Still, I'm not going to just abandon it - it's good experience! Here's a sneak peak and some more assets:
 
-<img src="images/ghost.jpg" width="300">
-<img src="images/IMG_3959.png" width="150">
-<img src="images/IMG_3958.png" width="150">
-<img src="images/IMG_3957.png" width="150">
+<img src="images/ghost.JPG" width="300">
+<img src="images/IMG_3959.PNG" width="150">
+<img src="images/IMG_3958.PNG" width="150">
+<img src="images/IMG_3957.PNG" width="150">
 
 
 #### Side-quests (Mid October 2017)
