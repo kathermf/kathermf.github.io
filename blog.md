@@ -7,6 +7,12 @@ title:  What Am I Up To?
 
 ---
 
+#### Holiday Season (December 2017)
+Yet again, I've gotten caught up with a lot of stuff this holiday season. Shopping for meaningful gifts for friends and family can be a lot harder than it seems. Game development is still a bit slow at the moment. In addition to the previous games I've talked about, I have begun working on a much simpler 2D game concept that has been bouncing around in my head for quite some time now. Thinking of the holidays has reminded me of my siblings and how I always wanted to make local multiplayer games for them. I don't think that this particular 2D game would be ready in time for Christmas, but it's a start! Anyways, Happy Holidays to you all! I hope you have a great time.
+
+---
+
+
 #### Too Many Parties (November 2017)
 November was a very busy month for me... it seems there was at least one party every week. As such, there's not much I got done in terms of game development, but there is some progress though. One mini project that was supposed to take a few hours over a few days ended up taking a few hours over several weeks (thanks to the aforementioned parties). And it's still not finished! It was originally supposed to be a Halloween special, but as you can see, that didn't turn out as planned. Still, I'm not going to just abandon it - it's good experience! Here's a sneak peak and some more assets:
 
