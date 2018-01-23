@@ -9,7 +9,7 @@ title:	Portfolio
 
 ## Games
 
-<table style="width:100%;text-align:left;background-color:#cccccc;" cellpadding="10">
+<table style="width:100%;text-align:left;" cellpadding="10">
 
  <tr>
   <td> <a href="s_selfiesurf.md"><img align="middle" src="images/selfiesurf0_1.png" width="200"></a> </td>
@@ -48,7 +48,7 @@ title:	Portfolio
 ---
 ## Other
 
-<table style="width:100%;text-align:left;background-color:#cccccc;" cellpadding="10">
+<table style="width:100%;text-align:left;" cellpadding="10">
  <tr>
   <td> <a href="https://shiftkeyk.deviantart.com/gallery/"><img align="middle" src="images/DAlogo.jpg" width="200"></a> </td>
  </tr>
