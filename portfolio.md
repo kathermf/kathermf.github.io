@@ -27,14 +27,14 @@ title:	Portfolio
 
  <tr>
   <td> <a href="s_defier.md"><img align="middle" src="images/defier0.png" width="200"></a> </td>
-  <td> <img align="middle" src="images/haven0.png" width="200"> </td>
-  <td> <img align="middle" src="images/lgcog0.png" width="200"> </td>
+  <td> <a href="s_haven.md"><img align="middle" src="images/haven0.png" width="200"></a> </td>
+  <td> <a href="s_lgcog.md"><img align="middle" src="images/lgcog0.png" width="200"></a> </td>
  </tr>
  <tr>
 
   <td>Defier</td>
   <td>Haven</td>
-  <td> The Lost Gold City of Gold </td>
+  <td>The Lost Gold City of Gold</td>
  </tr>
 
  <tr>
