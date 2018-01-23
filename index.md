@@ -9,9 +9,6 @@ title:  Home
 ## Current Projects 
 ---
 
-#### [Selfie Surf](s_selfiesurf.md)
-Selfie Surf is an ongoing project being developed by team ABI Productions (which I am a part of). The team is working on new features and marketing that are going to be added in the future.
-
 [Check out my blog here for the other stuff I'm working on.](blog.md)
 
 .

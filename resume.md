@@ -5,21 +5,21 @@ title:	Resume
 
 # {{ page.title }}
 
-[View in PDF format.](/fitzpatrickkm_resumeNP.pdf)
+[View in PDF format.](/fitzpatrickkm_resume180122.pdf)
 
 ---
 
 ## Objective
 
-I am interested in the development of video games as a programmer and/or designer. I also aim to further
+I am interested in the development of software as a programmer and/or designer. I also aim to further
 my skills in those areas.
 
 ---
 
 ## Skills
 * Programming Languages: C++, Python, C#
+* General Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 * Game Engines: Unity, RPGMaker VX Ace
-* Other Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 * Other: teamwork, game development, game design
 
 ---
@@ -38,7 +38,7 @@ September 2009 - May 2013
 
 ## Projects
 ### Selfie-Surf | Mobile Game
-January 2017 – Current
+January 2017 – August 2017
 #### Project Information:
 * A casual, local, mobile game inspired by the games Telephone and Charades that uses photos
 * Originally created for Global Game Jam 2017,  but continued development afterwards
