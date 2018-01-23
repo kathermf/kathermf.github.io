@@ -11,20 +11,16 @@ title:	Portfolio
 ### PAGE UNDER CONSTRUCTION
 ## Game Projects
 
-<table markdown="1">
+<table style="width:100%;">
 <tr>
 <th>Selfie Surf</th>
 <th>Pan-Fried Panic</th>
 </tr>
 <tr>
-<td><a href="s_selfiesurf.md"><img src="images/selfiesurf0_1.png" width="200"></a></td>
-<td><a href="s_panfriedpanic.md"><img src="images/panfriedpanic0.png" width="200"></a></td>
+<td> <a href="s_selfiesurf.md"><img src="images/selfiesurf0_1.png" width="200"></a> </td>
+<td> <a href="s_panfriedpanic.md"><img src="images/panfriedpanic0.png" width="200"></a> </td>
 </tr>
 </table>
-
-
-
-#### 
 
 
 
