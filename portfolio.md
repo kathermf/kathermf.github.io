@@ -5,42 +5,20 @@ title:	Portfolio
 
 # {{ page.title }}
 
-Here is the list of projects I have been a part of. Feel free to take a closer look at them by clicking the link labled "More...". Thanks for stopping by! :)
 
-Please note that the portfolio is still a work in progress and that some parts may be incomplete or missing. I am still in the process of adding to it, so be sure to check back at a later point in time. 
 
 <hr />
-## Selfie Surf
-<img align="right" src="images/selfiesurf0_1.png" width="200">
-Team Project | Platform(s): [Android](https://play.google.com/store/apps/details?id=com.Abi.SelfieSurf), [iOS](https://itunes.apple.com/us/app/selfie-surf/id1248211292?ls=1&mt=8)
+### PAGE UNDER CONSTRUCTION
+## Game Projects
+ | Selfie Surf | Pan-Fried Panic |
+| --- | --- |
+| [<img src="images/selfiesurf0_1.png" width="200">](s_selfiesurf.md) | [<img src="images/panfriedpanic0.png" width="200">](s_panfriedpanic.md) |
 
-> 2nd Place Winner for Best Game Showing Commercial Viability in the IEEE GameSIG 2017 Showcase
 
-Selfie Surf is a single-device party game for mobile, inspired by the game "Telephone." Players start with a random word or phrase and then take a selfie-based on that word. They then hand the phone to the next player, who enters a word or phrase based on that selfie. They hand the phone to the next player, who takes another selfie until everyone has taken a turn. All players can now watch an animated sequence of everyone's pictures coupled with the words and see what's lost (or gained!) in translation. The game supports 4-16 players.
+#### 
 
-**[More...](s_selfiesurf.md)**
 
-.
 
-.
-
-.
-
------
-
-## Pan-Fried Panic
-<img align="right"  src="images/panfriedpanic0.png" width="200">
-Team Project | Platform(s): [Android](https://play.google.com/store/apps/details?id=com.ABI.PanFriedPanic&hl=en)
-
-Pan Fried Panic is a 2 VS 2 frantic cooking game in which the goal is to prepare food faster than the other team. This is accomplished through fast-paced minigames requiring the coordination of both players on your team to set up. The game currently features baking cakes and the first team to work together to bake three cakes the fastest wins.
-
-**[More...](s_panfriedpanic.md)**
-
-.
-
-.
-
-.
 
 -----
 
