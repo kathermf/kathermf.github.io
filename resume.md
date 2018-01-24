@@ -5,7 +5,7 @@ title:	Resume
 
 # {{ page.title }}
 
-[View in PDF format.](/fitzpatrickkm_resume180122.pdf)
+[View in PDF format.](/fitzpatrickkm_resume180124.pdf)
 
 ---
 
