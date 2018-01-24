@@ -9,18 +9,11 @@ title:	Resume
 
 ---
 
-## Objective
-
-I am interested in the development of software as a programmer and/or designer. I also aim to further
-my skills in those areas.
-
----
-
 ## Skills
+* Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
 * Programming Languages: C++, Python, C#
-* General Software: Autodesk Maya 2015, Microsoft Word, Microsoft Excel, Microsoft PowerPoint
-* Game Engines: Unity, RPGMaker VX Ace
-* Other: teamwork, game development, game design
+* General: teamwork, game development, game design
+* Familiarity with operating Windows/PC, iOS/iPhones/iPads
 
 ---
 
@@ -46,7 +39,7 @@ January 2017 – August 2017
 
 #### Contribution & Experience:
 * Worked with multiple programmers to program the game’s mechanics
-* Designed the overall gameplay of the game, along with teammates
+* Designed the overall gameplay of the game as a team
 
 ### A Bark in the Dark | PC Game 
 May 2017 – June 2017
@@ -56,7 +49,7 @@ May 2017 – June 2017
 
 #### Contribution & Experience:
 * Was one of two programmers and was mainly responsible for programming the game's obstacles 
-* Overall game design was done by all members of the team
+* Contributed to the overall game design along with the rest of the team
 
 ### Edgewin | PC Game
 April 2017
@@ -65,8 +58,8 @@ April 2017
 * Made for the Video Game Development Club Spring 2017 Game Jam at the University of California in Irvine
 
 #### Contribution & Experience:
-* One of many programmers, primarily focusing on UI
-* Performed extensive playtesting, debugging, and design assistance
+* Primarily focused on programming the UI elements of the game, one of many programmers
+* Performed extensive playtesting and debugging, and assisted in the game's design
 
 ### Pan-Fried Panic | Senior Capstone Project/Mobile Game                     
 September 2016 – March 2017
