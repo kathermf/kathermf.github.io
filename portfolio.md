@@ -12,10 +12,10 @@ title:	Portfolio
 <table style="width:100%;text-align:left;" cellpadding="10">
 
  <tr>
-  <td> <a href="s_selfiesurf.md"><img align="middle" src="images/selfiesurf0_1.png" width="200"></a> </td>
-  <td> <a href="s_panfriedpanic.md"><img align="middle" src="images/panfriedpanic0.png" width="200"></a> </td>
-  <td> <a href="s_abitd.md"><img align="middle" src="images/abitd0.png" width="200"></a></td>
-<td> <a href="s_edgewin.md"><img align="middle" src="images/edgewin0.png" width="200"></a> </td>
+  <td> <a href="s_selfiesurf"><img align="middle" src="images/selfiesurf0_1.png" width="200"></a> </td>
+  <td> <a href="s_panfriedpanic"><img align="middle" src="images/panfriedpanic0.png" width="200"></a> </td>
+  <td> <a href="s_abitd"><img align="middle" src="images/abitd0.png" width="200"></a></td>
+<td> <a href="s_edgewin"><img align="middle" src="images/edgewin0.png" width="200"></a> </td>
  </tr>
 <tr>
   <td>Selfie Surf</td>
@@ -26,9 +26,9 @@ title:	Portfolio
 
 
  <tr>
-  <td> <a href="s_defier.md"><img align="middle" src="images/defier0.png" width="200"></a> </td>
-  <td> <a href="s_haven.md"><img align="middle" src="images/haven0.png" width="200"></a> </td>
-  <td> <a href="s_lgcog.md"><img align="middle" src="images/lgcog0.png" width="200"></a> </td>
+  <td> <a href="s_defier"><img align="middle" src="images/defier0.png" width="200"></a> </td>
+  <td> <a href="s_haven"><img align="middle" src="images/haven0.png" width="200"></a> </td>
+  <td> <a href="s_lgcog"><img align="middle" src="images/lgcog0.png" width="200"></a> </td>
  </tr>
  <tr>
 
